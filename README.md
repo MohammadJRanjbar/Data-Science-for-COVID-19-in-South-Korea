@@ -11,7 +11,7 @@ Destroy.
 * Check if this set is outlier or not. If so, state your reason
 And offers a way to solve it.
 
-<img src="Pics/table1.jpg" width="1000" class="center" />
+<img src="Table1.png" width="1000" class="center" />
 
 # Part II (Linear Regression):
 For this section, there is a data set of a number of students in the data folder named student.csv. The purpose of
